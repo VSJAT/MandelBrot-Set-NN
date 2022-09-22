@@ -5,6 +5,13 @@ The code for generating the image is taken from [Emergent Garden](https://github
 
 https://www.youtube.com/watch?v=QmPBLroyHB0
 
+## Install Dependencies
+
+Download all of the files and open a terminal in the same directory.
+```
+pip install -r requirements.txt
+```
+Hopefully all of the dependencies are listed
 
 ## To Train the Network run
 
