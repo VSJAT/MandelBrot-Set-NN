@@ -51,6 +51,6 @@ python3 main.py --image True --resx 3840 --resy 2160
 
 Here are some of the images I have generated using this
 
-![Mandelbrot set image][/images/render1_color.png]
+![Mandelbrot set image](/images/render1_grey.png)
 
-![Mandelbrot set image][/images/render.png]
+![Mandelbrot set image](/images/render.png)
