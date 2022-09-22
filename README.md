@@ -38,7 +38,7 @@ python3 main.py --train True --epochs 100 --layers 7 --hiddensize 50 --learningr
 
 ## Making an Image
 
-You can call the following command to make an image from the network
+You can call the following command to make an image from the network after running the training
 
 ```
 python3 main.py --image True
