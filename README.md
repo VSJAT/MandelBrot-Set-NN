@@ -1,7 +1,7 @@
 # MandelBrot Set Neural Network
 A Neural Network that can generate images of the Mandelbrot Set
 
-The code for generating the image is taken from [Emergent Garden](https://github.com/MaxRobinsonTheGreat). I have mearly updated his code to use pytorch lightning. Check out his video on the topic.
+The code for generating the image is taken from [Emergent Garden](https://github.com/MaxRobinsonTheGreat). I have only updated his code to use pytorch lightning. Check out his video on the topic.
 
 https://www.youtube.com/watch?v=QmPBLroyHB0
 
